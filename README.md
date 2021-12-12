@@ -5,4 +5,6 @@ In this cheatsheet you will find useful code snippets to create presentation-rea
 
 ### Examples created with the code snippets
 
-<img width="400" src="plots/Scatter-LifeExpectancy-GDPPerCap.png"></img>
+<img src="plots/Scatter-LifeExpectancy-GDPPerCap.png"></img>
+
+<img src="plots/Bar-PopulationPerContinent.png"></img>
